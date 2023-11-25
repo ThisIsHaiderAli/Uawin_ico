@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.donte_heaind{
+    color: white !important;
+    font-weight: 700 !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.join_us_buttton{
+    background-color: #FFD500 !important;
+    /* padding: 10px !important; */
+    width: 65% !important;
+    border-radius: 25px !important;
+    outline: none !important;
+    border:none !important;
+    font-size: 15px !important;
+    font-weight: 600;
+}
+
+
+.partner_with_us{
+    border: 2px solid #FFD500 !important;
+    color: #FFD500 !important;
+    background-color: transparent !important;
+    border-radius: 25px !important;
+    width: 65% !important;
+    font-size: 16px !important;
+    padding: 7px !important;
+}
+
+.white_box{
+    background-color: white !important;
+    padding: 10px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    border-radius: 30px !important;
+    width: 50% !important;
+}
+
+
+.main_donate_bg{
+    background-color: #04101C !important;
+    padding: 30px 10px  !important;
+}
+
+.donate_detaills{
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif !important;
+}
+h1,h2,h3,h4,h5,h6,p,span,li{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+@media only screen and (max-width:600px) {
+    .join_us_buttton{
+        padding: 10px !important;
+        width: 65% !important;
+        border-radius: 25px !important;
+        outline: none !important;
+        border:none !important;
+        font-size: 15px !important;
+        font-weight: 600;
+    }
+}

@@ -1,0 +1,85 @@
+.main_how_to_get{
+    background-color: #04101C !important;
+}
+
+.cooncet_wallate{
+    background-color: #FFD500 !important;
+    padding: 10px 25px !important;
+    /* width: 100% !important; */
+    border-radius: 25px !important;
+    outline: none !important;
+    border:none !important;
+    font-size: 13px !important;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.uawin{
+    background-color: #FFD500 !important;
+    color: black !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.connect_w_title{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.modeccc{
+    background-color: #FFD500 !important;
+text-align:  center !important;
+color: black !important;
+justify-content: center !important;
+border-radius: 15px 15px 0px 0px !important;
+}
+
+.main_modal .modal-content{
+    background: transparent  !important;
+}
+
+.main_modal .modal-body{
+    background: #04101C !important;
+}
+
+.get_blue{
+    width: 20%;
+}
+
+.left_get_ppic{
+    width: 20%;
+}
+
+.wu_bbtn{
+    width: 43%;
+}
+
+.hol{
+    text-align: justify;
+}
+
+.how_detail_point{
+    font-size: 13px;
+    line-height: 23px;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.how_to_title{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.for_get_uprre{
+    margin-top: -7rem;
+}
+
+@media only screen and (max-width:700px){
+    .main_modal {
+        padding-left: 0px !important;
+    }
+
+    .get_blue{
+        width: 40%;
+    }
+
+    .for_get_uprre {
+        margin-top: -2rem;
+    }
+}
